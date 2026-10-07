@@ -1,0 +1,220 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.samuel{
+    background-image: url(/images/desktop/image-header.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tom{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+}
+.ayo{
+    padding-inline: 20px;
+    padding-block: 15px;
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+}
+.creative{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 50px;
+    color: white;
+
+}
+.arrow{
+    display: flex;
+    margin: auto;
+    margin-top: 70px;
+}
+.cssgrid{
+   display: grid;
+   grid-template-columns: repeat(2,1fr); 
+}
+
+.grace{
+    padding: 50px 100px;
+    
+}
+.felix{
+   background-image: url(./images/desktop/image-transform.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.daniel{
+    background-image: url(/images/desktop/image-stand-out.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.icecold{
+    background-image: url(/images/desktop/image-graphic-design.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.freebond{
+    background-image: url(/images/desktop/image-photography.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.grace{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    gap: 30px;
+}
+.femi{
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    gap: 30px; 
+}
+.icecold{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    gap: 20px;
+
+}
+.icecold p{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.freebond{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    gap: 20px;
+
+}
+.freebond p{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.testimony{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.img{
+    border-radius: 100px;
+    width: 60px;
+    margin-top: 50px;
+}
+.king{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.h2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    
+}
+.bossgrid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.boss2{
+    background-image: url(/images/desktop/image-gallery-milkbottles.jpg);
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+}
+.boss3{
+    background-image: url(/images/desktop/image-gallery-orange.jpg);
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+}
+.boss4{
+    background-image: url(/images/desktop/image-gallery-cone.jpg);
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+}
+.boss5{
+    background-image: url(/images/desktop/image-gallery-sugarcubes.jpg);
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+}
+.prince{
+    background-color: hsl(167, 34%, 41%);
+    height: 280px;
+    
+}
+.dan{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 70px;
+    list-style: none;
+}
+.robot{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    gap: 30px;
+}
+.kevin{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.joe{
+    margin-top: 50px;
+    
+}
+
+    
+
+
+
+
+
+
+
+    
+
+
